@@ -1,6 +1,6 @@
-# 🐳 Informe Técnico: Introducción y Uso de Docker
+#  Informe Técnico: Introducción y Uso de Docker
 
-## 📋 Resumen General
+##  Resumen General
 
 Este informe se basa en el análisis de dos videos tutoriales sobre **Docker**, una herramienta esencial para el desarrollo moderno, DevOps y la gestión de infraestructura.
 Ambos videos explican los conceptos fundamentales de contenedores, imágenes, redes, volúmenes y la automatización mediante **Docker Compose**.
@@ -8,7 +8,7 @@ A continuación se detallan los puntos aprendidos, reflexiones personales y un e
 
 ---
 
-## 🎬 1. Resumen del primer video
+##  1. Resumen del primer video
 
 El primer video presenta **Docker** como una tecnología que permite empaquetar aplicaciones junto con todas sus dependencias dentro de contenedores, garantizando que se ejecuten igual en cualquier entorno.
 Se abordan temas como:
@@ -23,7 +23,7 @@ Se abordan temas como:
 
 ---
 
-## 🎬 2. Resumen del segundo video
+##  2. Resumen del segundo video
 
 El segundo video amplía el enfoque práctico, explicando cómo construir imágenes personalizadas con un **Dockerfile**, buenas prácticas como **usar versiones fijas** en las imágenes base y cómo aprovechar el sistema de **capas y caché** de Docker.
 También enseña a:
@@ -37,7 +37,7 @@ También enseña a:
 
 ---
 
-## 💭 Reflexiones personales
+##  Reflexiones personales
 
 **Ventajas:**
 
@@ -55,7 +55,7 @@ Aplicaría Docker para desarrollar aplicaciones web con base de datos, sin tener
 
 ---
 
-## 🧩 Ejemplo práctico
+##  Ejemplo práctico
 
 **Objetivo:** Ejecutar una aplicación Node.js que se conecte a una base de datos MongoDB usando `docker-compose`.
 
@@ -123,17 +123,11 @@ Y la aplicación estará disponible en [http://localhost:3000](http://localhost:
 
 ---
 
-## 🔗 Recursos adicionales
+##  Recursos adicionales
 
-* 📘 [Documentación oficial de Docker](https://docs.docker.com/)
-* 📦 [Repositorio oficial de Docker Hub](https://hub.docker.com/)
-* 🎓 [Guía de Docker Compose](https://docs.docker.com/compose/)
-* 💡 [Curso oficial de Docker en YouTube (Docker Inc.)](https://www.youtube.com/@Docker)
+*  [Documentación oficial de Docker](https://docs.docker.com/)
+*  [Repositorio oficial de Docker Hub](https://hub.docker.com/)
+*  [Guía de Docker Compose](https://docs.docker.com/compose/)
+*  [Curso oficial de Docker en YouTube (Docker Inc.)](https://www.youtube.com/@Docker)
 
 ---
-
-## ✅ Conclusión
-
-Docker es una herramienta clave para el desarrollo moderno, permitiendo crear entornos aislados, reproducibles y escalables.
-Con Docker Compose, es posible automatizar la ejecución de múltiples contenedores, simplificando notablemente el flujo de trabajo.
-Esta tecnología mejora la colaboración, reduce errores de configuración y acelera la entrega de software.
